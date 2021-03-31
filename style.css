@@ -1,0 +1,17 @@
+#submit_button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#sort_button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+}
+input{
+    margin: 10px;
+}
+.bg{
+    background-image: url("https://thumbs.dreamstime.com/b/vegetables-spices-ingredient-cooking-italian-food-black-wooden-old-board-rustic-style-76334485.jpg");
+    background-position: center;
+    background-size: cover;
+}
